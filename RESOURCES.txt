@@ -1,0 +1,46 @@
+ 
+ * SPEED DEMO AND GEO DEMOS:
+ http://code.google.com/p/krvarma-android-samples/source/browse/#svn%2Ftrunk%2FSpeedDemo%253Fstate%253Dclosed
+ 
+ 
+ * MONGODB GEOSPATIAL
+ * RELATED: http://www.mongodb.org/display/DOCS/Geospatial+Indexing#GeospatialIndexing-TheEarthisRoundbutMapsareFlat
+ * RELATED: https://openshift.redhat.com/community/blogs/spatial-mongodb-in-openshift-be-the-next-foursquare-part-1
+ * 
+ * MONGODB
+ * RELATED: http://code.google.com/p/morphia/
+ * RELATED: http://city81.blogspot.com/2012/07/using-morphia-to-map-java-objects-in.html
+ * RELATED: http://www.mongodb.org/display/DOCS/Java+Tutorial#JavaTutorial-MakingAConnection
+ * 
+ * NODEJS
+ * RELATED: http://stackoverflow.com/questions/4518563/java-client-and-node-js-server
+ * RELATED: http://www.ibm.com/developerworks/java/library/j-nodejs/index.html << Node.js, mongodb.
+ * 
+ * ANDROID + PHP + JSON
+ * RELATED: http://www.coderzheaven.com/2011/04/08/android-phpmysql-connection/
+ * RELATED: http://andrewbrobinson.com/2011/03/08/creating-an-android-app-with-php-json-backend-%E2%80%93-part-ii/
+ * RELATED: http://www.androidhive.info/2012/01/android-login-and-registration-with-php-mysql-and-sqlite/
+ * 
+ * LOGGING:
+ * RELATED: http://stackoverflow.com/questions/6842806/how-can-i-set-microlog4android-log-file-max-size-or-other-method-to-log-on-andr
+ * 
+ * 
+ * DRAWING OPTIMIZATION:
+ * RELATED: http://stackoverflow.com/questions/2487148/drawing-to-the-canvas
+ * RELATED: http://stackoverflow.com/questions/4329663/how-to-optimize-canvas-drawing-drawbitmap-on-android
+ * 
+ * HISTOGRAMS:
+ * RELATED: http://code.google.com/p/histometer/source/browse/trunk/src/swn/nu/cg/histometer/ClassicHistometerView.java
+ * RELATED: 
+ * 
+ * UI, VIEWPAGER:
+ * RELATED: http://android-developers.blogspot.com/2011/08/horizontal-view-swiping-with-viewpager.html
+ * 
+ * BRIGHTNESS OF C:
+ * RELATED: http://stackoverflow.com/questions/596216/formula-to-determine-brightness-of-rgb-color
+ * 
+ * MD5 HASHING:
+ * http://www.mkyong.com/java/java-md5-hashing-example/
+ * 
+ * UNIQUE DEVICE ID
+ * http://android-coding.blogspot.com/2011/06/get-unique-device-id-imei-meid-or-esn.html

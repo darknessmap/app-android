@@ -1,0 +1,7 @@
+bin/*
+gen/*
+
+default.properties
+project.properties
+
+.DS_Store
